@@ -1,9 +1,7 @@
 # Este repositorio es un caso de estudio documental.
-# No incorporar aquí código, datos, sesiones, vídeos ni materiales del reto sin autorización expresa.
+# No incorporar código, datos o sesiones del reto sin autorización expresa.
 
 node_modules/
 .env
 .env.*
-*.mp4
-*.pdf
 *.zip

@@ -1,9 +1,9 @@
 # Banana Bank — experiencia de hackathon
 
-> Caso de estudio personal desarrollado durante un reto técnico de **T.dots**.
+> Caso de estudio personal desarrollado durante un reto técnico de [**T·dots**](https://tdots.es/).
 > Banana Bank, sus clientes, documentos y operaciones son completamente ficticios.
 
-Este repositorio documenta mi aportación durante varios días de trabajo sobre una aplicación entregada como base por la organización. No es un proyecto oficial de T.dots ni redistribuye el código, los datos, las grabaciones o los materiales del reto.
+Este repositorio documenta mi aportación durante varios días de trabajo sobre una aplicación entregada como base por la organización. No es un proyecto oficial de T·dots ni redistribuye el código ni los datos del reto.
 
 ## Contexto
 
@@ -63,8 +63,13 @@ Así, la respuesta diferencia condiciones vigentes de operaciones ya contabiliza
 - Recuperación de información y respuestas de IA con fuentes verificables.
 - Diseño de interfaz para revisión, confirmación y trazabilidad.
 
+## Demo y documentación
+
+- [Demo en vídeo](demo.mp4): recorrido narrado de las correcciones y de la funcionalidad del agente.
+- [Documentación previa a la resolución del hackathon](documentacion-previa-hackathon.pdf): material de apoyo que acompaña al caso de estudio.
+
 ## Alcance y atribución
 
-La base de la aplicación, el simulador, los documentos de prueba y el enunciado pertenecen a la organización del hackathon. Este caso de estudio explica únicamente mi proceso y mis aportaciones sobre aquel entorno. Por ese motivo, no incluye código fuente, datos, credenciales, sesiones de IA, vídeo de entrega ni otros materiales proporcionados para el reto.
+La base de la aplicación, el simulador, los documentos de prueba y el enunciado pertenecen a T·dots. Este caso de estudio explica únicamente mi proceso y mis aportaciones sobre aquel entorno. Incluye el vídeo de demostración y la documentación de apoyo que he decidido compartir, pero no incluye código fuente, datos, credenciales ni sesiones de IA.
 
-Si T.dots autoriza la publicación de una versión del código, este repositorio puede enlazarla o incorporar exclusivamente los archivos cuya redistribución esté expresamente permitida.
+Si T·dots autoriza la publicación de una versión del código, este repositorio puede enlazarla o incorporar exclusivamente los archivos cuya redistribución esté expresamente permitida.
